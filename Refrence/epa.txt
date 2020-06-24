@@ -1,0 +1,11 @@
+EDA
+https://towardsdatascience.com/how-to-perform-exploratory-data-analysis-with-seaborn-97e3413e841d
+
+Data Visualization using seaborn
+https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+
+https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d
+
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
+
+https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825

@@ -1,0 +1,5 @@
+https://towardsdatascience.com/a-beginners-guide-to-decision-tree-classification-6d3209353ea
+
+https://www.datacamp.com/community/tutorials/decision-tree-classification-python
+
+https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb
